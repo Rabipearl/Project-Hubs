@@ -20,8 +20,8 @@ module.exports = {
         "3xl": "1900px",
       },
       fontFamily: {
-        body: ["Open Sans", "system-ui", "sans-serif"],
-        heading: ["Open Sans", "system-ui", "sans-serif"],
+        body: ["inder", "system-ui", "sans-serif"],
+        heading: ["inder", "system-ui", "sans-serif"],
       },
       colors: {
         light: withOpacity("--color-light"),

@@ -23,8 +23,8 @@ module.exports = {
         "-1": "-1",
       },
       fontFamily: {
-        body: ["Open Sans", "system-ui", "sans-serif"],
-        heading: ["Open Sans", "system-ui", "sans-serif"],
+        body: ["inder", "system-ui", "sans-serif"],
+        heading: ["inder", "system-ui", "sans-serif"],
       },
       fontSize: {
         "10px": "0.625rem",
