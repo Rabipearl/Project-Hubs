@@ -1,8 +1,8 @@
 {
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://pickbazarapi.redq.io/",
-      "NEXT_PUBLIC_SHOP_URL": "https://shop-pickbazar-staging.vercel.app"
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api-hubs-25aumrj9u-rabipearl.vercel.app",
+      "NEXT_PUBLIC_SHOP_URL": "https://project-hubs-two.vercel.app"
     }
   }
 }
